@@ -1487,6 +1487,7 @@ encoder:
 錣	ceee
 鍅	cegi
 鎃	cehv
+釵	cei	cei
 釵	cei	ce'i
 鈥	cf
 釥	cf
@@ -2308,6 +2309,7 @@ encoder:
 棳	deee
 桫	defh
 柽	deg
+杈	dei	dei
 杈	dei	de'i
 樑	deid
 頗	dembc
@@ -3391,6 +3393,7 @@ encoder:
 欼	eeeeo
 毲	eeeeu
 叠	eeem
+汊	eei	eei
 汊	eei	ee'i
 溞	eeii
 碆	eemr
@@ -3569,6 +3572,7 @@ encoder:
 湼	ehxm
 淣	ehxu
 裟	ehyhv
+叉	ei	ei
 叉	ei	e'i
 戏	ei
 浪	eiav
@@ -9510,6 +9514,7 @@ encoder:
 褬	leed
 裰	leee
 坚	leg
+衩	lei	lei
 衩	lei	le'i
 紧	levif
 竖	leyt
@@ -10443,6 +10448,7 @@ encoder:
 孁	mbrrv
 霞	mbrse
 霨	mbsfi
+雪	mbsm	mbsm
 雪	mbsm	mbs'm
 霫	mbsma
 翮	mbsmm
@@ -13611,6 +13617,7 @@ encoder:
 铍	opdhe
 钵	opdm
 铼	opdt
+钗	opei	opei
 钗	opei	ope'i
 铴	openh
 铎	opeq
@@ -14795,6 +14802,7 @@ encoder:
 搡	qeed
 掇	qeee
 挱	qefh
+扠	qei	qei
 扠	qei	qe'i
 搔	qeii
 掻	qeli
@@ -15037,6 +15045,7 @@ encoder:
 搳	qjqr
 邫	qjrau
 捾	qjrr
+彗	qjsm	qjsm
 彗	qjsm	qjs'm
 熭	qjsmf
 慧	qjsmp
@@ -17775,6 +17784,7 @@ encoder:
 芰	tje
 鞜	tjea
 蘻	tjef
+靫	tjei	tjei
 靫	tjei	tje'i
 鞘	tjfb
 鞺	tjfbg
@@ -20141,6 +20151,7 @@ encoder:
 妶	vyvi
 姟	vyvo
 嬗	vywm
+〇	w
 田	w
 畼	wamh
 胃	wb
@@ -21023,6 +21034,7 @@ encoder:
 諫	yrdwf	yrdw'f
 誻	yrea
 諁	yreee
+訍	yrei	yrei
 訍	yrei	yre'i
 京	yrf
 点	yrf
@@ -23299,102 +23311,43 @@ encoder:
 鹸	xywom
 鹾	xywtq
 齌	xyxf
-郎	ivnl
+郎	ivnl
 﨎	yge
 﨏	gccr
 﨑	uytr
 﨓	dtoi
 﨔	dfcq
-礼	mfu
+礼	mfu
 﨟	tbav
-蘒	thdu
+蘒	thdu
 﨡	lihqm
 﨣	goyj
 﨤	ynhe
 﨧	cjkd
 﨨	cgtj
 﨩	nlhau
-	hh
-	hm
-	hm
-	mn
-	mv
-	hn
-	ni
-	lc
-	fi
-	pnsm
-	hq
-	qm
-	tm
-	hg
-	qk
-	fb
-	nylm
-	oioi
-	tq
-	tg
-	ji
-	lm
-	fq
-	rylm
-	jaj
-	ffb
-	su
-	opuu
-	onsm
-	rrob
-	rank
-	rlsk
-	ppuu
-	qbk
-	qes
-	qoge
-	qee
-	dbk
-	mnlmo
-	eyk
-	bufdv
-	hdikh
-	vmlw
-	bc
-	qdwlp
-	qdwli
-	bqni
-	tjcs
-	llmc
-	llmo
-	ivhml
-	ivtlf
-	bcqmb
-	boqmb
-	cism
-	opmvh
-	opive
-	opism
-	optja
-	opttr
-	opbue
-	anoog
-	annsd
-	lsoog
-	lsnsd
-	ymok
-	nmhpl
-	nmqka
-	nmtcw
-	yfok
-	bfqm
-	mbpym
-	ykpym
-	mnpym
-	qbpym
-	bkpym
-	hnpym
-	sryjm
-	ipmk
-	vfyrf
-	chsm
+⺁	hh
+⺄	mv
+⺈	hn
+龴	ni
+⺌	lc
+⺗	fi
+龵	hq
+龶	qm
+龷	tm
+⺧	hg
+龸	fb
+⺪	nylm
+⺮	oioi
+⺶	tq
+⺷	tg
+⺻	lm
+龹	fq
+⻊	rylm
+龺	jaj
+⺋	su
+⺳	bc
+龻	vfyrf
 、	xi
 丶	xxi
 。	xr
